@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Saira+Extra+Condensed');
 .oshin{
  padding-right: 100%;
 }
 #page-top{
-  background: url(img/fondo3.jpg);
+  background: url(img/Captura1.JPG);
+  /* background-size: cover; */  
 }
 #dash{
   width: 100%;
@@ -67,18 +69,14 @@ section h2 {
 }
 
 #foto{
-width: 130%
+width: 50%
 }
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;
   font-weight: 700;
-  font-family:sans-serif;
-  background: url(img/nav.png);
-}
-
-#mainNav .navbar-brand {
-  color: #fff;
+ font-family: 'Saira Extra Condensed', sans-serif;
+  background:url(img/nav.jpg);
 }
 
 #mainNav .navbar-nav {
@@ -175,7 +173,10 @@ header.masthead h2 {
   }
 }
 #about{
-
+background:#7d8e86;
+}
+.sobreMi{
+  font-family: 'Saira Extra Condensed', sans-serif;
 }
 .portfolio {
  
