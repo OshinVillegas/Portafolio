@@ -3,7 +3,7 @@
  padding-right: 100%;
 }
 #page-top{
-  background: url(img/Captura1.JPG);
+  background: url(img/desenfoque.jpg);
   /* background-size: cover; */  
 }
 #dash{
@@ -61,15 +61,12 @@ section h2 {
   height: 3.5rem;
   line-height: 3.1rem;
 }
-#name2{
-  font-family: 'Alex Brush', cursive;
-  font-size: 300%;
-  text-decoration:none; 
-  color:#a1cca5; 
-}
-
 #foto{
-width: 50%
+width: 50%;
+}
+.lead{
+  font-family: 'Saira Extra Condensed', sans-serif;
+  color:#ffe520;
 }
 #mainNav {
   padding-top: 1rem;
@@ -157,11 +154,12 @@ header.masthead h2 {
   }
 }
 #about{
-background:#7d8e86;
+background:url(img/nav.png);
+background-size: cover;
 }
-.sobreMi{
+#prof{
   font-family: 'Saira Extra Condensed', sans-serif;
-  font-size: 10%;
+  font-size:10%;
 }
 .portfolio {
  
@@ -267,8 +265,6 @@ background:#7d8e86;
   -moz-transition: top 0.3s ease, opacity 0.3s ease;
   -ms-transition: top 0.3s ease, opacity 0.3s ease;
   transition: top 0.3s ease, opacity 0.3s ease;
-  vertical-align: middle;
-  vertical-align: baseline;
   opacity: 0;
 }
 
