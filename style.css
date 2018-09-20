@@ -154,10 +154,7 @@ header.masthead h2 {
     font-size: 1.75em;
   }
 }
-#about{
-/* background:url(img/fondoplomo.jpg);
-background-size: cover; */
-}
+
 #prof{
   font-family: 'Saira Extra Condensed', sans-serif;
   font-size:10%;
@@ -294,50 +291,10 @@ form .row:first-child .floating-label-form-group {
   color: #fff;
 }
 
-a {
-  color: #18BC9C;
-}
-
-a:focus, a:hover, a:active {
-  color: #128f76;
-}
-
 .btn {
   border-width: 2px;
 }
-
-.bg-primary {
-  background-color: #18BC9C !important;
-}
-
-.bg-secondary {
-  background-color: #2C3E50 !important;
-}
-
-.text-primary {
-  color: #18BC9C !important;
-}
-
-.text-secondary {
-  color: #2C3E50 !important;
-}
-
-.btn-primary {
-  background-color: #18BC9C;
-  border-color: #18BC9C;
-}
-
-.btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: #128f76;
-  border-color: #128f76;
-}
-
-.btn-secondary {
-  background-color: #2C3E50;
-  border-color: #2C3E50;
-}
-
-.btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
-  background-color: #1a252f;
-  border-color: #1a252f;
+#firma{
+  padding-top:3%;
+  padding-left:-1%;
 }
