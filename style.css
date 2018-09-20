@@ -73,7 +73,8 @@ width: 50%;
   padding-bottom: 1rem;
   font-weight: 700;
  font-family: 'Saira Extra Condensed', sans-serif;
-  background:url(img/nav.jpg);
+  background:url(img/fondoplomo.jpg);
+  background-size: cover;
 }
 
 #mainNav .navbar-nav {
@@ -154,8 +155,8 @@ header.masthead h2 {
   }
 }
 #about{
-background:url(img/nav.png);
-background-size: cover;
+/* background:url(img/fondoplomo.jpg);
+background-size: cover; */
 }
 #prof{
   font-family: 'Saira Extra Condensed', sans-serif;
