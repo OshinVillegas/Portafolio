@@ -6,6 +6,13 @@
   background: url(img/desenfoque.jpg);
   /* background-size: cover; */  
 }
+#habilidades{
+  background: url(img/captura.png);
+  
+}
+.texto{
+  color:black
+}
 #dash{
   width: 100%;
 }
@@ -66,6 +73,7 @@ width: 50%;
 .lead{
   font-family: 'Saira Extra Condensed', sans-serif;
   color:#ffe520;
+  margin-top: 30%;
 }
 #mainNav {
   padding-top: 1rem;
@@ -75,7 +83,11 @@ width: 50%;
   background:url(img/fondoplomo.jpg);
   background-size: cover;
 }
-
+#contact{
+  font-family: 'Saira Extra Condensed', sans-serif;
+  color:#ffe520;
+  font-size: 300%;
+}
 #mainNav .navbar-nav {
   margin-top: 1rem;
   letter-spacing: 0.0625rem;
