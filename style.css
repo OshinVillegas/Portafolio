@@ -6,6 +6,12 @@
   background: url(img/desenfoque.jpg);
   /* background-size: cover; */  
 }
+#aboutme{
+  padding-bottom: 30%;
+}
+#about{
+  padding-top: 20%;
+}
 #habilidades{
   background: url(img/Fondoclaro.png);
   }
@@ -13,6 +19,10 @@
   margin-left: -12px;
   margin-top: -3.5px;
 }  
+#back{
+  
+  background: #2C3E50;
+}
 .texto{
   color:black
 }
@@ -123,13 +133,14 @@ width: 50%;
 @media (min-width: 992px) {
 
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
-    color:black;
+    color:#2C3E50;
     background: #ffe520;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
-    color: black;
+    color: #2C3E50;
     background: #ffe520;
   }
+  
   #mainNav.navbar-shrink {
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
