@@ -174,7 +174,9 @@ border-radius: 5%;
 #back{
   margin-top: -10%;
 }
-
+#segunda{
+  margin-top: 10%;
+}
 @media (min-width: 992px) {
 
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
