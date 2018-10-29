@@ -13,15 +13,21 @@
   padding-top: 20%;
 }
 #habilidades{
-  background: url(img/Fondoclaro.png);
+  background:rgb(248,224,247)
+  ;
   }
 #cv{
+  color: #ffe520;
   margin-left: -12px;
   margin-top: -3.5px;
 }  
 #back{
   
   background: #2C3E50;
+}
+.nombre{
+  padding-top: 13%;
+  padding-left: 80%;
 }
 .texto{
   color:black
@@ -39,6 +45,28 @@ width: 95%;
 background:#ffe520;
 margin-left: 80%;
 
+}
+
+#logo{
+  color:#ffe520;
+}
+#cod{
+  color: #ffe520;
+}
+#dem{
+  color:#ffe520;
+}
+#en{
+ color:  #ffe520;
+}
+#Gh{
+  color: #ffe520;
+}
+#social{
+  color: #ffe520;
+}
+#boton{
+  background: rgb(7,7,25)
 }
 section {
   padding: 6rem 0;
@@ -93,9 +121,24 @@ width: 50%;
   padding-bottom: 1rem;
   font-weight: 700;
  font-family: 'Saira Extra Condensed', sans-serif;
-  background:url(img/fondoplomo.jpg);
+  background:rgb(7,7,25)
+;
   background-size: cover;
 }
+#prof{
+background:rgb(7,7,25);
+border-radius: 5%;
+
+
+}
+#me{
+  background:rgb(7,7,25);
+  border-radius: 5%;
+}
+.dos{
+  display: block;
+}
+
 #contact{
   font-family: 'Saira Extra Condensed', sans-serif;
   color:#ffe520;
@@ -184,72 +227,9 @@ header.masthead h2 {
   font-family: 'Saira Extra Condensed', sans-serif;
   font-size:10%;
 }
-.portfolio {
- 
-  margin-bottom: -15px;
-}
-
-.portfolio .portfolio-item {
-  position: relative;
-  display: block;
-  max-width: 25rem;
-  margin-bottom: 15px;
-}
 
 
 
-.portfolio .portfolio-item .portfolio-item-caption:hover {
-  opacity: 1;
-}
-
-.portfolio .portfolio-item .portfolio-item-caption .portfolio-item-caption-content {
-  font-size: 1.5rem;
-}
-
-@media (min-width: 576px) {
-  .portfolio {
-    margin-bottom: -30px;
-  }
-  .portfolio .portfolio-item {
-    margin-bottom: 30px;
-  }
-}
-
-.portfolio-modal .portfolio-modal-dialog {
-  padding: 3rem 1rem;
-  min-height: calc(100vh - 2rem);
-  margin: 1rem calc(1rem - 8px);
-  position: relative;
-  z-index: 2;
-  -moz-box-shadow: 0 0 3rem 1rem rgba(0, 0, 0, 0.5);
-  -webkit-box-shadow: 0 0 3rem 1rem rgba(0, 0, 0, 0.5);
-  box-shadow: 0 0 3rem 1rem rgba(0, 0, 0, 0.5);
-}
-
-.portfolio-modal .portfolio-modal-dialog .close-button {
-  position: absolute;
-  top: 2rem;
-  right: 2rem;
-}
-
-.portfolio-modal .portfolio-modal-dialog .close-button i {
-  line-height: 38px;
-}
-
-.portfolio-modal .portfolio-modal-dialog h2 {
-  font-size: 2rem;
-}
-
-@media (min-width: 768px) {
-  .portfolio-modal .portfolio-modal-dialog {
-    min-height: 100vh;
-    padding: 5rem;
-    margin: 3rem calc(3rem - 8px);
-  }
-  .portfolio-modal .portfolio-modal-dialog h2 {
-    font-size: 3rem;
-  }
-}
 
 .floating-label-form-group {
   position: relative;
@@ -306,7 +286,7 @@ form .row:first-child .floating-label-form-group {
 .footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #2C3E50;
+  background-color:rgb(7,7,25);
   color: #fff;
 }
 
